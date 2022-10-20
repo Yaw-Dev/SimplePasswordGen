@@ -5,4 +5,5 @@ A very simple Password Generator written in Python.
 <br>
 <h2>Features:</h2>
 - Generates a Password with up to 72 characters.
+<br>
 - Automatically copies it to the Clipboard.
