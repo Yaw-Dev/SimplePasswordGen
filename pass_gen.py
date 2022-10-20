@@ -1,4 +1,3 @@
-from glob import escape
 import random
 import pyperclip
 import os
