@@ -2,8 +2,6 @@ import random
 import pyperclip
 import os
 
-# Made by A WeirD KiD | For more info: https://weirdkid.cf
-
 print("Installing Dependencies...")
 os.system("pip install pyperclip")
 os.system("cls")
