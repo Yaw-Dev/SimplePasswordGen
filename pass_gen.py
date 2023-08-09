@@ -8,6 +8,10 @@ os.system("cls")
 
 passlength = int(input("Enter your desired Password length: "))
 
+if passlength > 72:
+    print("Invalid Password length. Please enter a number between 1 and 72.")
+    os.system("pause")
+
 upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lower_case = "abcdefghijklmnopqrstuvwxyz"
 nums = "0123456789"
